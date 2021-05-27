@@ -7,7 +7,7 @@
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 -  💪&nbsp; 探索新技术，专注深入学习前端技术ing<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" />
--  🎓 &nbsp;一名即将毕业的实习生。<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" width="60px" />
+-  🎓 &nbsp;一名即将毕业的前端实习生。<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" width="60px" />
 -  🌱 &nbsp; 保持乐观积极的生活态度。<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/question.png" width="50px" />
 -  ✍️ &nbsp; 坚持学习，看书，并记录自己成长过程。<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" />
 
