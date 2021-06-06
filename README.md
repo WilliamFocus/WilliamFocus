@@ -36,8 +36,7 @@
 <h3> ✉ &nbsp;Connect with Me </h3>
 
 - ![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dacelis0@misena.edu.co)
-<a href="https://mail.google.com/mail">fwxfwx28@gmail.com</a>
-- ![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)
+- <a href="https://mail.google.com/mail">fwxfwx28@gmail.com</a>
 
 ---
 
