@@ -40,4 +40,4 @@
 
 ---
 
-![](https://gitee.com/WilliamFocus/my-picbed/raw/master/img/run.gif)
+![picture](https://gitee.com/WilliamFocus/my-picbed/raw/master/img/run.gif)
