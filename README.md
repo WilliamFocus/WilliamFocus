@@ -40,4 +40,4 @@
 
 ---
 
-![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
+![picture](https://gitee.com/WilliamFocus/my-picbed/raw/master/img/run.gif)
