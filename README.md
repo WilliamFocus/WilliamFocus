@@ -15,27 +15,27 @@
 <h3> 🛠 &nbsp;Some of the technologies I have worked with</h3>
 
 - 💻 &nbsp;
-  ![HTML5](https://gitee.com/WilliamFocus/my-picbed/raw/master/img/github-blog/html.svg)
-  ![CSS](https://gitee.com/WilliamFocus/my-picbed/raw/master/img/github-blog/css.svg)
-  ![JavaScript](https://gitee.com/WilliamFocus/my-picbed/raw/master/img/github-blog/JavaScript.svg)
-  ![Vue.js](https://gitee.com/WilliamFocus/my-picbed/raw/master/img/github-blog/Vuejs.svg)
-  ![React.js](https://gitee.com/WilliamFocus/my-picbed/raw/master/img/github-blog/React.svg)
-  ![TypeScript](https://gitee.com/WilliamFocus/my-picbed/raw/master/img/github-blog/TypeScript.svg)
+  ![HTML5](https://img.shields.io/badge/%20-HTML-%23333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/%20-CSS-%23333?style=flat&logo=CSS3)
+  ![JavaScript](https://img.shields.io/badge/%20-JavaScript-%23333?style=flat&logo=JavaScript)
+  ![Vue.js](https://img.shields.io/badge/%20-Vuejs-%23333?style=flat&logo=vue.js)
+  ![React.js](https://img.shields.io/badge/%20-React-%23333?style=flat&logo=React)
+  ![TypeScript](https://img.shields.io/badge/%20-TypeScript-%23333?style=flat&logo=TypeScript)
 
 - ⚙️ &nbsp;
-  ![Git](https://gitee.com/WilliamFocus/my-picbed/raw/master/img/github-blog/Git.svg)
-  ![GitHub](https://gitee.com/WilliamFocus/my-picbed/raw/master/img/github-blog/GitHub.svg)
-  ![GitLab](https://gitee.com/WilliamFocus/my-picbed/raw/master/img/github-blog/GitLab.svg)
+  ![Git](https://img.shields.io/badge/%20-Git-%23333?style=flat&logo=Git)
+  ![GitHub](https://img.shields.io/badge/%20-GitHub-%23333?style=flat&logo=GitHub)
+  ![GitLab](https://img.shields.io/badge/%20-GitLab-%23fc971e?style=flat&logo=GitLab)
 
 - 🔧 &nbsp;
-  ![Visual Studio Code](https://gitee.com/WilliamFocus/my-picbed/raw/master/img/github-blog/VSCode.svg)
-  ![Sublime Text](https://gitee.com/WilliamFocus/my-picbed/raw/master/img/github-blog/Sublime.svg)
+  ![Visual Studio Code](https://img.shields.io/badge/%20-VisualStudioCode-%23333?style=flat&logo=VisualStudioCode)
+  ![WebStorm](https://img.shields.io/badge/%20-WebStorm-%23333?style=flat&logo=WebStorm)
 
 ---
 
 <h3> ✉ &nbsp;Connect with Me </h3>
 
-- ![Gmail Badge](https://gitee.com/WilliamFocus/my-picbed/raw/master/img/github-blog/Gmail.svg)
+- ![Gmail Badge](https://img.shields.io/badge/%20-Gmail-%23333?style=flat&logo=Gmail)
 - <a href="https://mail.google.com/mail">fwxfwx28@gmail.com</a>
 
 ---
