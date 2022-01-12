@@ -6,9 +6,9 @@
 
 <img width="35%" align="right" alt="Github" src="https://gitee.com/WilliamFocus/my-picbed/raw/master/img/github-blog/coding.gif" />
 
--  🌱 &nbsp; 探索新技术，深入学习前端技术.
+-  🌱 &nbsp; 探索深入学习前端技术.
 -  🏃‍♂️ &nbsp; 保持乐观积极的生活态度.
--  ✍️ &nbsp; 坚持学习，看书，并记录自己成长过程.
+![WilliamFocus GitHub stats](https://github-readme-stats.vercel.app/api?username=WilliamFocus&show_icons=true&theme=react)
 
 ---
 
