@@ -7,8 +7,8 @@
 <!-- <img width="35%" align="right" alt="Github" src="https://gitee.com/WilliamFocus/my-picbed/raw/master/img/github-blog/coding.gif" /> -->
 <img width="35%" align="right" alt="Github" src="https://www.williamfocus.cn/my-picbed/github-blog/coding.gif" />
 
--  🌱 &nbsp; 深入探索学习计算机技术.
--  🏃‍♂️ &nbsp; 保持乐观积极的生活态度.
+-  🏃‍♂️ &nbsp; 深入探索学习计算机技术.
+-  🌱 &nbsp; 保持乐观积极的生活态度.
 
 ---
 
