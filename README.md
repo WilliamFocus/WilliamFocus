@@ -46,4 +46,4 @@
 <!-- ![picture](https://gitee.com/WilliamFocus/my-picbed/raw/master/img/github-blog/run.gif) -->
 ![picture](https://www.williamfocus.cn/my-picbed/github-blog/run.gif)
 
-![](./assets/github-contribution-grid-snake.svg)
+![](./assets/github-contribution-grid-snake.gif)
